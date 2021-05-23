@@ -58,8 +58,8 @@
     @if (session('crear') == 'ok' )
         <script>
             Swal.fire(
-                '!Exito!',
-                'La categoría se creó con éxito',
+                '!Actualizado!',
+                'La categoría se actualizó con éxito',
                 'success'
             )
         </script>
